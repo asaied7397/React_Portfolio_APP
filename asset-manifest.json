@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio_APP/static/css/main.d6e4a710.css",
+    "main.js": "/React_Portfolio_APP/static/js/main.2326c66a.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/React_Portfolio_APP/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/project_2.svg": "/React_Portfolio_APP/static/media/project_2.b5880b508aea26982f2b8faf5d6c712a.svg",
+    "static/media/project_3.svg": "/React_Portfolio_APP/static/media/project_3.9ec4cb62fdebbbba2fb198c009489c36.svg",
+    "static/media/project_1.svg": "/React_Portfolio_APP/static/media/project_1.88651517c115211688c975a8c28c5c1e.svg",
+    "static/media/project_6.svg": "/React_Portfolio_APP/static/media/project_6.ae58a0ffd26a1a5212e3b0dba91e6f75.svg",
+    "static/media/logo.png": "/React_Portfolio_APP/static/media/logo.4adb65678798f835f112.png",
+    "static/media/project_5.svg": "/React_Portfolio_APP/static/media/project_5.e7af3c379f6eb8033b97478806a7a930.svg",
+    "static/media/project_4.svg": "/React_Portfolio_APP/static/media/project_4.5a9c437eafb090ed2c7efe1317c551fb.svg",
+    "static/media/profile_img3.jpg": "/React_Portfolio_APP/static/media/profile_img3.51eb66b21c253743987c.jpg",
+    "static/media/call_icon.svg": "/React_Portfolio_APP/static/media/call_icon.fec62cc3d3fb69f5ce5f05a0724a0425.svg",
+    "static/media/user_icon.svg": "/React_Portfolio_APP/static/media/user_icon.5c0ce6f918770ec5f3046cdf624dfee9.svg",
+    "static/media/mail_icon.svg": "/React_Portfolio_APP/static/media/mail_icon.9eae5516c8c1364a170e8b13ae4c18cf.svg",
+    "index.html": "/React_Portfolio_APP/index.html",
+    "static/media/menu_close.svg": "/React_Portfolio_APP/static/media/menu_close.d7bcdac2acc8f22501cacb6bbabbb700.svg",
+    "static/media/nav_underline.svg": "/React_Portfolio_APP/static/media/nav_underline.c56cde277213bbba5816c05ee4d24f73.svg",
+    "static/media/theme_pattern.svg": "/React_Portfolio_APP/static/media/theme_pattern.92278b3dbc4b903482e1d44b040aa98f.svg",
+    "static/media/location_icon.svg": "/React_Portfolio_APP/static/media/location_icon.111157f177e78ee2c0025016c0206379.svg",
+    "static/media/arrow_icon.svg": "/React_Portfolio_APP/static/media/arrow_icon.866a8d83b9723eed11e169d98d66ebc7.svg",
+    "static/media/menu_open.svg": "/React_Portfolio_APP/static/media/menu_open.f6a63a18e3c68d807e50b1037f3e3555.svg",
+    "main.d6e4a710.css.map": "/React_Portfolio_APP/static/css/main.d6e4a710.css.map",
+    "main.2326c66a.js.map": "/React_Portfolio_APP/static/js/main.2326c66a.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/React_Portfolio_APP/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e4a710.css",
+    "static/js/main.2326c66a.js"
+  ]
+}
